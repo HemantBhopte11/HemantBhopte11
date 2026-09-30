@@ -1,59 +1,297 @@
-<h1 align="center">Hi 👋, I'm Hemant Bhopte</h1>
-<h3 align="center">Developer in progress, always curious and always learning. Building with code, exploring new ideas, and growing every day. 🚀</h3>
+<!-- ===================================================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantbhopte11&label=Profile%20views&color=0e75b6&style=flat" alt="hemantbhopte11" /> </p>
+<!--                    PROFILE HEADER                     -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantbhopte11" alt="hemantbhopte11" /></a> </p>
+<!-- ===================================================== -->
 
-<p align="left"> <a href="https://twitter.com/hemantbhopte_01" target="blank"><img src="https://img.shields.io/twitter/follow/hemantbhopte_01?logo=twitter&style=for-the-badge" alt="hemantbhopte_01" /></a> </p>
+<h1 align="center">
+  Hi 👋, I'm Hemant Bhopte
+</h1>
 
-- 🔭 I’m currently working on **C++, DSA ,System Design & Backend Development**
+<h3 align="center">
+  Developer in Progress • C/C++ • DSA • Backend Development • System Design
+</h3>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms & Backend Development**
-
-- 👯 I’m looking to collaborate on **C/C++ and real-world software projects**
-
-- 🤝 I’m looking for help with **DSA, Backend Development & System Design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HemantBhopte11](https://github.com/HemantBhopte11)
-
-- 📝 I regularly write articles on [Programming, Learning & Technology](Programming, Learning & Technology)
-
-- 💬 Ask me about **C, C++, DSA & Programming Fundamentals**
-
-- 📫 How to reach me **hemantbhopte002@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemant-bhopte-8028b367/](https://www.linkedin.com/in/hemant-bhopte-8028b367/)
-
-- ⚡ Fun fact **I enjoy turning ideas into code and learning how things work.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@hemant-bhopte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@hemant-bhopte" height="30" width="40" /></a>
-<a href="https://dev.to/hemant_bhopte_dd981ba9f19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hemant_bhopte_dd981ba9f19" height="30" width="40" /></a>
-<a href="https://twitter.com/hemantbhopte_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantbhopte_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemant bhopte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant bhopte" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hemant bhopte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hemant bhopte" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hemantb_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hemantb_11" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/hemantbhopte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/hemantbhopte" height="30" width="40" /></a>
-<a href="https://instagram.com/hemantbhopte_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemantbhopte_01" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@hemantbhopte2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@hemantbhopte2006" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hemantbhopte6515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hemantbhopte6515" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hemantb_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemantb_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hemantbhopte2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemantbhopte2006" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hemantbhopte2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hemantbhopte2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ibzqkcoxku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibzqkcoxku" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hemantbhopte2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hemantbhopte2006" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@hemantbhon4nf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@hemantbhon4nf" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/hemantbhopte_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="hemantbhopte_01" height="30" width="40" /></a>
-<a href="https://discord.gg/hemantbhopte_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hemantbhopte_01" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/HemantBhopte11">
+    <img src="https://komarev.com/ghpvc/?username=HemantBhopte11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/HemantBhopte11?tab=followers">
+    <img src="https://img.shields.io/github/followers/HemantBhopte11?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/HemantBhopte11?tab=repositories">
+    <img src="https://img.shields.io/github/stars/HemantBhopte11?label=Total%20Stars&style=flat&logo=github" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/HemantBhopte11">
+    <img src="https://img.shields.io/badge/GitHub-HemantBhopte11-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemant-bhopte-8028b367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemant%20Bhopte-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:hemantbhopte002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantbhopte11&show_icons=true&locale=en&layout=compact" alt="hemantbhopte11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantbhopte11&show_icons=true&locale=en" alt="hemantbhopte11" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantbhopte11&" alt="hemantbhopte11" /></p>
+```text
+💻 Developer focused on C/C++, DSA and Backend Development
+🧠 Currently strengthening Data Structures & Algorithms
+⚙️ Exploring Backend Engineering & System Design
+🤝 Open to collaborating on real-world software projects
+🌱 Learning something new and building something useful every day
+```
+
+* 🔭 Currently working on **C++, DSA, System Design & Backend Development**
+* 🌱 Currently learning **Data Structures, Algorithms & Backend Development**
+* 👯 Looking to collaborate on **C/C++ and real-world software projects**
+* 💬 Ask me about **C, C++, DSA & Programming Fundamentals**
+* 📫 Reach me at **[hemantbhopte002@gmail.com](mailto:hemantbhopte002@gmail.com)**
+* ⚡ Fun fact: **I enjoy turning ideas into code and learning how things work.**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/HemantBhopte11">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=HemantBhopte11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark"
+      alt="Hemant's GitHub Stats"/>
+  </a>
+
+  <a href="https://github.com/HemantBhopte11">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemantBhopte11&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+      alt="Hemant's Top Languages"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=HemantBhopte11&theme=github-dark-blue&hide_border=true"
+    alt="Hemant's GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/HemantBhopte11">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=HemantBhopte11&theme=github-compact&hide_border=true"
+      alt="Hemant's GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=HemantBhopte11&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+> Replace the repositories below with the projects you are most proud of.
+
+<p align="center">
+
+<a href="https://github.com/HemantBhopte11/REPOSITORY-1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=HemantBhopte11&repo=REPOSITORY-1&theme=github_dark&hide_border=true"
+  />
+</a>
+
+<a href="https://github.com/HemantBhopte11/REPOSITORY-2">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=HemantBhopte11&repo=REPOSITORY-2&theme=github_dark&hide_border=true"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/HemantBhopte11/REPOSITORY-3">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=HemantBhopte11&repo=REPOSITORY-3&theme=github_dark&hide_border=true"
+  />
+</a>
+
+<a href="https://github.com/HemantBhopte11/REPOSITORY-4">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=HemantBhopte11&repo=REPOSITORY-4&theme=github_dark&hide_border=true"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/HemantBhopte11?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+# 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Backend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,dotnet,graphql" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,nginx,aws,firebase" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,svelte,tailwind" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+# 🧠 Competitive Programming & Coding
+
+<p align="center">
+
+<a href="https://www.leetcode.com/ibzqkcoxku">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/hemantbhopte2006">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/hemantb_01">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/hemantbhopte2006">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://www.hackerearth.com/@hemantbhopte2006">
+  <img src="https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/@hemantbhon4nf">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hemant-bhopte-8028b367/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://twitter.com/hemantbhopte_01">
+  <img src="https://cdn.simpleicons.org/x/white" width="45" />
+</a>
+
+<a href="https://dev.to/hemant_bhopte_dd981ba9f19">
+  <img src="https://skillicons.dev/icons?i=devto" width="45" />
+</a>
+
+<a href="https://codepen.io/@hemant-bhopte">
+  <img src="https://skillicons.dev/icons?i=codepen" width="45" />
+</a>
+
+<a href="https://www.youtube.com/@hemantbhopte6515">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" />
+</a>
+
+</p>
+
+---
+
+# ✍️ Writing & Learning
+
+I enjoy documenting what I learn about:
+
+* 💻 Programming
+* 🧠 Data Structures & Algorithms
+* ⚙️ Backend Development
+* 🏗️ System Design
+* 🚀 Software Engineering
+* 📚 My learning journey
+
+<p align="center">
+  <a href="https://dev.to/hemant_bhopte_dd981ba9f19">
+    <img src="https://img.shields.io/badge/Read%20My%20Articles-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to" />
+  </a>
+</p>
+
+---
+
+# 📌 Current Focus
+
+```text
+C/C++              ███████████████░░░  DSA & Problem Solving
+
+Backend             ████████████░░░░░░  APIs & Services
+
+System Design       █████████░░░░░░░░░  Architecture & Scalability
+
+Open Source         ████████░░░░░░░░░░  Collaboration & Contributions
+```
+
+---
+
+## 💡 Developer Philosophy
+
+> **Learn deeply. Build consistently. Share what you learn.**
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HemantBhopte11">
+    <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
